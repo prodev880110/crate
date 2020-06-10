@@ -1,4 +1,4 @@
-![Crate](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/crate/hero-with-link.png)
+![Crate]
 
 # Crate 👕👖📦
 
@@ -32,25 +32,6 @@
 - Starter application for Mobile and Web along with SSR
 - Multi-package scripts
 - Sample project with combination of all above
-
-
-## Screenshots and GIFs
-Click on image to view fullscreen and zoom
-
-### Desktop
-[IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/desktop-all-with-link.png)
-
-![Crate Desktop](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/crate/desktop-all-with-link.png)
-
-### Mobile
-[IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/mobile-all-with-link.png) · [GIF](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/mobile.gif)
-
-![Crate Mobile](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/crate/mobile-all-with-link.png)
-
-### Tablet
-[IMAGE](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/tablet-all-with-link.png) · [GIF](https://github.com/atulmy/atulmy.github.io/blob/master/images/crate/tablet.gif)
-
-![Crate Tablet](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/crate/tablet-all-with-link.png)
 
 
 ## Core Structure
@@ -98,7 +79,7 @@ Click on image to view fullscreen and zoom
 - Prerequisites
   - Node
   - MySQL (or Postgres / Sqlite / MSSQL)
-- Clone repo `git clone git@github.com:atulmy/crate.git crate`
+- Clone repo `git clone git@github.com:prodev880110/crate.git crate`
 - Switch to `code` directory `cd code`
 - Configurations
   - Modify `/api/src/config/database.json` for database credentials
@@ -133,9 +114,9 @@ Click on image to view fullscreen and zoom
         - Run Webapp alone `npm start:web`, browse webapp at http://localhost:3000/
 
 ## Resources and Inspirations
-- ✍️ Opinionated project architecture for Full-Stack JavaScript Applications - [GitHub](https://github.com/atulmy/fullstack-javascript-architecture)
-- 🌈 Simple Fullstack GraphQL Application - [GitHub](https://github.com/atulmy/fullstack-graphql)
-- 🌐 Universal react application with server side rendering - [GitHub](https://github.com/atulmy/universal-react)
+- ✍️ Opinionated project architecture for Full-Stack JavaScript Applications - [GitHub](https://github.com/prodev880110/fullstack-javascript-architecture)
+- 🌈 Simple Fullstack GraphQL Application - [GitHub](https://github.com/prodev880110/fullstack-graphql)
+- 🌐 Universal react application with server side rendering - [GitHub](https://github.com/prodev880110/universal-react)
 - Container Components - [Medium Post](https://medium.com/@learnreact/container-components-c0e67432e005)
 - Zero to GraphQL in 30 Minutes - [YouTube](https://www.youtube.com/watch?v=UBGzsb2UkeY&list=PLkuiMQfg5DujhOSZ1A8kDl0hKV_ICTjp-)
 - Building a GraphQL Server [YouTube Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
@@ -152,7 +133,7 @@ Click on image to view fullscreen and zoom
 
 
 ## Author
-- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
+- prodev880110 - [GitHub](https://github.com/prodev880110) · [Twitter](https://twitter.com/prodev880110)
 
 
 ## Contributors
@@ -165,17 +146,11 @@ Click on image to view fullscreen and zoom
 - [YOUR NAME HERE] - Feel free to contribute to the codebase by resolving any open issues, refactoring, adding new features, writing test cases or any other way to make the project better and helpful to the community. Feel free to fork and send pull requests.
 
 
-## Donate
-If you liked this project, you can donate to support it ❤️
-
-[![Donate via PayPal](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/paypal-me-smaller.png)](http://paypal.me/atulmy) [![Become a Patreon](https://raw.githubusercontent.com/atulmy/atulmy.github.io/master/images/mix/patreon.png?v=1)](https://www.patreon.com/atulmy)
-
-
 ## Hire me
-Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [atul.12788@gmail.com](mailto:atul.12788@gmail.com)
+Looking for a developer to build your next idea or need a developer to work remotely? Get in touch: [jack.dev880110@gmail.com](mailto:jack.dev880110@gmail.com)
 
 
 ## License
-Copyright (c) 2018 Atul Yadav http://github.com/atulmy
+Copyright (c) 2018 prodev880110 http://github.com/prodev880110
 
 The MIT License (http://www.opensource.org/licenses/mit-license.php)

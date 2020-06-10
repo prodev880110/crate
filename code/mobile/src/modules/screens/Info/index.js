@@ -15,7 +15,7 @@ import Body from '../../common/Body'
 export default class Info extends PureComponent {
 
   #github = () => {
-    Linking.openURL('https://github.com/atulmy/crate')
+    Linking.openURL('https://github.com/prodev880110/crate')
   }
 
   render() {
@@ -52,11 +52,11 @@ export default class Info extends PureComponent {
 
             <View style={styles.textContainer}>
               <Text style={styles.textHeading}>
-                Created by Atul Yadav
+                Created by prodev880110
               </Text>
 
-              <Text style={styles.textItem}>- github.com/atulmy</Text>
-              <Text style={styles.textItem}>- twitter.com/atulmy</Text>
+              <Text style={styles.textItem}>- github.com/prodev880110</Text>
+              <Text style={styles.textItem}>- twitter.com/prodev880110</Text>
             </View>
 
             <Button
